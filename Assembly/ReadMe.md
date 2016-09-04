@@ -1,1 +1,1 @@
-Hashes ten string that are specifically chosen for a high collision rate in assembly, my hashing algorithm drastically minimizes collisions. 
+Hashes ten strings in assembly; that are specifically chosen for to have high collision rate. < br/ > My hashing algorithm drastically reduces these collisions.
